@@ -1,0 +1,9 @@
+Read me
+
+echo "# Term-II-final" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Dilshaad1/Term-II-final.git
+git push -u origin main
